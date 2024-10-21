@@ -1,0 +1,7 @@
+{
+  "loanAmount": "5000",
+  "requiredRatio": "150",
+  "userBalance": "10000",
+  "collateralAmount": "8000",
+  "collateralPrice": "2"
+}

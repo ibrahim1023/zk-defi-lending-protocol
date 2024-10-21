@@ -1,0 +1,7 @@
+{
+  "loanAmount": "5000",
+  "collateralAmount": "6000",
+  "interestRate": "5",
+  "timePassed": "30",
+  "liquidationRatio": "120"
+}
