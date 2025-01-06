@@ -4,10 +4,10 @@ This project implements a Private DeFi Lending/Borrowing Protocol that uses zk-S
 
 The protocol uses zero-knowledge proofs (ZKPs) to verify operations without revealing sensitive information, including:
 
-Loan requests
-Collateral checks
-Interest calculations
-Liquidation status
+- Loan requests
+- Collateral checks
+- Interest calculations
+- Liquidation status
 
 ## Features
 
